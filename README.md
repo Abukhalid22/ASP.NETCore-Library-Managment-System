@@ -1,6 +1,6 @@
 # ASP.NET Core-Library-Managment-System
 
-I have build a library managment system using ASP.NET Core framework with MVC. The project includes, Model View Controller design pattern, 
+This is a library managment system using ASP.NET Core framework with MVC. The project includes, Model View Controller design pattern, 
 Code First database migrations, DbContext, dependency injection, implementing services, the ASP.NET Razor Engine, and many more. 
 
 ## Home Page
